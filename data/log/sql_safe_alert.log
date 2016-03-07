@@ -1,0 +1,1 @@
+Time:15-11-08 16:17 -- http://localhost/tiancheng/tiancheng/admin/?mod=main&amp;ac=goods&amp;op=add<br>SELECT count(*) AS total FROM pre_goods WHERE num_iid=#<hr size='1' />
